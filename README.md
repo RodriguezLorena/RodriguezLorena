@@ -3,7 +3,7 @@
 <!--
 **RodriguezLorena/RodriguezLorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![RodriguezLorena´s github stats](https://github-readme-stats.vercel.app/api?username=RodriguezLorena)](https://github.com/RodriguezLorena/github-readme-stats)
+[![RodriguezLorena´s github stats](https://github-readme-stats.vercel.app/api?username=RodriguezLorena)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
