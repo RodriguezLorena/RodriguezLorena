@@ -2,7 +2,7 @@
 ![1646621837012](https://user-images.githubusercontent.com/86779470/167262664-ed1c04b4-1ec7-4522-ab46-6821c0cbf75d.jpg)
 
 
-[![RodriguezLorena´s stats](https://github-readme-stats.vercel.app/api?username=RodriguezLorena&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RodriguezLorena´s stats](https://github-readme-stats.vercel.app/api?username=RodriguezLorena&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
