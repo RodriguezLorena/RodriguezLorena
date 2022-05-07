@@ -1,7 +1,6 @@
                            Hi!!... Welcome to my profile  👋😄👩‍💻
 ![1646621837012](https://user-images.githubusercontent.com/86779470/167262664-ed1c04b4-1ec7-4522-ab46-6821c0cbf75d.jpg)
-<!--
-**RodriguezLorena/RodriguezLorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [![RodriguezLorena´s github stats](https://github-readme-stats.vercel.app/api?username=RodriguezLorena)](https://github.com/anuraghazra/github-readme-stats)
 
